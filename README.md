@@ -2,7 +2,7 @@
 - 👀 I’m interested in Economic And Scientific Projects
 - 🌱 I’m currently learning about Crypto and Economic Projects
 - 💞️ I’m looking to collaborate on My Project
-- 📫 How to reach me by my outlook mail
+- 📫 How to reach me by my outlook mail and gmail
 
 <!---
 ErwinKhachakian/ErwinKhachakian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
