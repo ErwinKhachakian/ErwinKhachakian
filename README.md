@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErwinKhachakian
 - 👀 I’m interested in Economic And Scientific Projects
 - 🌱 I’m currently learning about Crypto and Economic Project
-- 💞️ I’m looking to collaborate on My Projects
+- 💞️ I’m looking to collaborate on My Project
 - 📫 How to reach me by my outlook mail 
 
 <!---
